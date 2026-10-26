@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Vedansh Yadav
 **An energetic Game Developer || Enterpreneur(Founder @ NoteX Studios) || and programmer from India**
 
-Email Me 👉 ✉️ **dextergaming.id.gdm@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **esco.bar.001@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Phantom Echoes Chapter 1
 - 🌱 **I’m currently learning:** Advance Game Development in Unity and Unreal Engine
