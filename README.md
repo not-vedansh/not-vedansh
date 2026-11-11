@@ -4,6 +4,7 @@
 
 <br />
 
+<a href="https://not-vedansh.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-85FBA6?style=for-the-badge&amp;logo=githubpages&amp;logoColor=080D0A" alt="Open Vedansh's portfolio" /></a>
 <a href="https://www.notexstudios.in"><img src="https://img.shields.io/badge/NOTEX_STUDIOS-080f0c?style=for-the-badge&amp;logo=unity&amp;logoColor=7dff9b" alt="Explore NoteX Studios" /></a>
 <a href="https://store.steampowered.com/app/4607190/Phantom_Echoes_Chapter_I/"><img src="https://img.shields.io/badge/PLAY_PHANTOM_ECHOES-080f0c?style=for-the-badge&amp;logo=steam&amp;logoColor=7dff9b" alt="Play Phantom Echoes on Steam" /></a>
 <a href="mailto:esco.bar.001@gmail.com"><img src="https://img.shields.io/badge/LET'S_BUILD-080f0c?style=for-the-badge&amp;logo=gmail&amp;logoColor=7dff9b" alt="Email Vedansh" /></a>
@@ -84,7 +85,7 @@ Have a game idea, need a custom asset, or want to build with NoteX? Let's talk.
 
 **[esco.bar.001@gmail.com](mailto:esco.bar.001@gmail.com)**
 
-[Studio](https://www.notexstudios.in) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/vedansh-yadav-248703375/) &nbsp; / &nbsp; [Instagram](https://www.instagram.com/not_ved4nsh/) &nbsp; / &nbsp; [Discord](https://discord.gg/PfJzTajpTr)
+[Portfolio](https://not-vedansh.github.io/portfolio/) &nbsp; / &nbsp; [Studio](https://www.notexstudios.in) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/vedansh-yadav-248703375/) &nbsp; / &nbsp; [Instagram](https://www.instagram.com/not_ved4nsh/) &nbsp; / &nbsp; [Discord](https://discord.gg/PfJzTajpTr)
 
 <br />
 
