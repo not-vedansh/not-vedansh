@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="112" viewBox="0 0 1000 112" role="img" aria-labelledby="title">
+<title id="title">NoteX Studios. We say it, we mean it. End of file, not the story.</title>
+<style>text{font-family:Consolas,'Liberation Mono',monospace}.cursor{animation:blink 1s steps(2,end) infinite}@keyframes blink{50%{opacity:0}}@media(prefers-reduced-motion:reduce){.cursor{animation:none}}</style>
+<rect x="1" y="1" width="998" height="110" rx="12" fill="#080f0c" stroke="#28533a"/>
+<text x="32" y="42" font-size="14" fill="#7dff9b">notex@studio:~$ <tspan fill="#e8fff0">WE SAY IT, WE MEAN IT.</tspan></text>
+<text x="32" y="77" font-size="12" fill="#97b3a1">END OF FILE. NOT THE STORY.</text>
+<rect class="cursor" x="939" y="47" width="12" height="18" fill="#7dff9b"/>
+</svg>

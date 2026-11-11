@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440" role="img" aria-labelledby="title desc">
+<title id="title">Vedansh Yadav | Game developer, 3D artist, founder of NoteX Studios</title>
+<desc id="desc">A midnight terminal with green typing, boot messages and a loading bar. Building worlds after dark.</desc>
+<defs>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#173325" stroke-width=".6"/></pattern>
+<radialGradient id="wash" cx="85%" cy="30%" r="80%"><stop stop-color="#123d28"/><stop offset="1" stop-color="#080f0c"/></radialGradient>
+<clipPath id="typing"><rect class="reveal" x="58" y="250" width="830" height="32"/></clipPath>
+<style>
+text{font-family:'Cascadia Code',Consolas,'Liberation Mono',monospace}
+.reveal{animation:type 12s steps(29,end) infinite}.cursor{animation:blink 1s steps(2,end) infinite}
+.boot1{animation:boot1 12s infinite}.boot2{animation:boot2 12s infinite}.load{animation:load 12s linear infinite}
+@keyframes type{0%,8%{width:0}34%,100%{width:830px}}
+@keyframes blink{50%{opacity:0}}@keyframes boot1{0%,38%{opacity:0}42%,100%{opacity:1}}
+@keyframes boot2{0%,48%{opacity:0}52%,100%{opacity:1}}@keyframes load{0%,55%{width:0}78%,100%{width:240px}}
+@media(prefers-reduced-motion:reduce){.reveal,.cursor,.boot1,.boot2,.load{animation:none}}
+</style>
+</defs>
+<rect x="1" y="1" width="998" height="438" rx="16" fill="url(#wash)" stroke="#28533a"/>
+<rect x="1" y="49" width="998" height="390" rx="16" fill="url(#grid)" opacity=".6"/>
+<path d="M1 49H999" stroke="#28533a"/>
+<circle cx="27" cy="25" r="5" fill="#315540"/><circle cx="45" cy="25" r="5" fill="#548060"/><circle cx="63" cy="25" r="5" fill="#7dff9b"/>
+<text x="88" y="30" fill="#9fb6a7" font-size="13">not-vedansh / midnight-session</text>
+<text x="943" y="30" text-anchor="end" fill="#7dff9b" font-size="12">CREATOR MODE</text>
+<text x="56" y="97" fill="#7dff9b" font-size="13" letter-spacing="3">CODE / ART / WORLDS</text>
+<text x="52" y="165" fill="#e8fff0" font-size="60" font-weight="700" letter-spacing="-3">VEDANSH YADAV<tspan fill="#7dff9b">.</tspan></text>
+<text x="56" y="202" fill="#b1c8b9" font-size="17">GAME DEVELOPER / 3D ARTIST / FOUNDER @ NOTEX</text>
+<path d="M56 229H944" stroke="#284433"/>
+<g clip-path="url(#typing)"><text x="58" y="273" fill="#7dff9b" font-size="22">&gt; building worlds after dark.</text></g>
+<g class="boot1"><text x="58" y="316" fill="#7dff9b" font-size="14">[ OK ]<tspan fill="#b1c8b9"> Phantom Echoes Chapter I / shipped on Steam</tspan></text></g>
+<g class="boot2"><text x="58" y="344" fill="#7dff9b" font-size="14">[ WIP ]<tspan fill="#b1c8b9"> The Last Peg / five players. one table.</tspan></text></g>
+<text x="58" y="399" fill="#7e9b89" font-size="12">LOADING THE NEXT WORLD</text>
+<rect x="260" y="390" width="240" height="8" rx="4" fill="#193724"/>
+<rect class="load" x="260" y="390" width="240" height="8" rx="4" fill="#7dff9b"/>
+<text x="942" y="399" text-anchor="end" fill="#7e9b89" font-size="12">INDIA / INDEPENDENT</text>
+<rect class="cursor" x="924" y="326" width="16" height="22" fill="#7dff9b"/>
+</svg>
